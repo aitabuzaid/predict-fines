@@ -11,4 +11,4 @@ This project uses data from Detroit city to predict compliance with blight viola
 - Violation Code
 - Agency Name
 
-The model processes both types of features as preparation for the classfication model. Adaboost classifier acheives an AUC score of 0.78
+The model processes both types of features as preparation for the classfication model. Gradient Boosting classifier acheives an AUC score of 0.78 on the validation set.
